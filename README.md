@@ -21,8 +21,5 @@ A few of the things you can do with Rusttools:
 
 This section lists the major technologies used to make this project live.
 
-* <i class="fab fa-js"></i> JavaScript
-* <i class="fab fa-html5"></i> HTML
-* <i class="fab fa-css3-alt"></i> CSS
-* <i class="fab fa-font-awesome"></i> FontAwesome
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://discordapp.com/users/692350011765162074)
 
