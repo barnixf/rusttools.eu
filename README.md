@@ -19,13 +19,10 @@ A few of the things you can do with Rusttools:
 
 ### Built With
 
-This section lists the major frameworks/libraries used to make this project live.
+This section lists the major technologies used to make this project live.
 
-* [![JavaScript][App.js]][JavaScript-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* <i class="fab fa-js"></i> JavaScript
+* <i class="fab fa-html5"></i> HTML
+* <i class="fab fa-css3-alt"></i> CSS
+* <i class="fab fa-font-awesome"></i> FontAwesome
+
