@@ -16,3 +16,16 @@ A few of the things you can do with Rusttools:
 * Calculate the time left on a building to decay based on It's material
 * Calculate Recycler drops (What, and how much will it give you back?)
 * Other features coming soon.
+
+### Built With
+
+This section lists the major frameworks/libraries used to make this project live.
+
+* [![JavaScript][App.js]][JavaScript-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
