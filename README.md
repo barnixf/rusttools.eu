@@ -1,6 +1,6 @@
 # Rust Item Calculator
 
-![https://imgur.com/axWIFi7]
+![main page](https://imgur.com/axWIFi7 "Főoldal")
 
 This is a Rust Multi Tool website, where you can calculate the time left for a wall to decay based on It's material, and a recycler calculator, to put in any item and amount, and check what it gives you back, and how many.
 
