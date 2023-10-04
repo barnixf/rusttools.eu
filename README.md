@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://cdn.discordapp.com/attachments/826149087715262474/1158939770609741874/logo.png?ex=651e1245&is=651cc0c5&hm=4863bdd61f2b790b2903093a016e5f1338c9d4f90a7daf691c5f27860073d9ac&?width=671&height=671">
+  <img src="https://media.discordapp.net/attachments/826149087715262474/1158938540550398012/logo.png?ex=651e1120&is=651cbfa0&hm=28bae18aad82a079489d04c700ba120152bee852067a265e1d7297eeff2f6d77&=&width=160&height=160&?width=671&height=671">
   <h1 align=center><b>Rusttools.eu</b></h1>
 </p>
 
